@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1704922098 "c:/Users/can00015/Documents/GitHub/CV/main.tex" "main.pdf" "main" 1704922100 0
+["pdflatex"] 1704922958 "c:/Users/can00015/Documents/GitHub/CV/main.tex" "main.pdf" "main" 1704922960 0
   "C:/Users/can00015/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1704919324 92909 8b244a284fa6bead44583c9d0bf1c0fb ""
   "C:/Users/can00015/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1695662607 24143365 940632e954936078d1553d4e93b0bcd7 ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463869852 1687 f004baecce60175c6453d0e3f808cf20 ""
@@ -98,10 +98,10 @@
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1686255640 7147 d80d8cf72d313443d08c13c1af59c90f ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1686255640 7392 ed69c044ab18d5539723c1c7b8c2ee88 ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/can00015/Documents/GitHub/CV/main.tex" 1704922097 18209 98faa3f80ca9080626fa610847ae59bd ""
-  "main.aux" 1704922100 1174 58c5c20ee77bb00b06b81a6d965d8fea "pdflatex"
-  "main.out" 1704922100 494 3e9395c283fa1c7427eb1599ee8fc021 "pdflatex"
-  "main.tex" 1704922097 18209 98faa3f80ca9080626fa610847ae59bd ""
+  "c:/Users/can00015/Documents/GitHub/CV/main.tex" 1704922954 18244 9af7f99d4571d7de1d09126490139809 ""
+  "main.aux" 1704922959 1174 58c5c20ee77bb00b06b81a6d965d8fea "pdflatex"
+  "main.out" 1704922959 494 3e9395c283fa1c7427eb1599ee8fc021 "pdflatex"
+  "main.tex" 1704922954 18244 9af7f99d4571d7de1d09126490139809 ""
   (generated)
   "main.aux"
   "main.log"
