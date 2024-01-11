@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex victor_alves_cv"] 1704923475 "victor_alves_cv.aux" "victor_alves_cv.bbl" "victor_alves_cv" 1704923475 0
-  "./victor_alves_cv-blx.bib" 1704923472 343 80ef1134ae0aab1843c80af95865b35d ""
+["bibtex victor_alves_cv"] 1704991939 "victor_alves_cv.aux" "victor_alves_cv.bbl" "victor_alves_cv" 1704992361 0
+  "./papers.bib" 1704991836 2350 9826764d8cb7c3af6c5ccbb977a0255e ""
+  "./victor_alves_cv-blx.bib" 1704992359 343 80ef1134ae0aab1843c80af95865b35d ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/bibtex/bst/biblatex/biblatex.bst" 1679055682 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "papers.bib" 0 -1 0 ""
-  "victor_alves_cv.aux" 1704923472 1600 909d0970e90a2ef36835484a83f7908c "pdflatex"
+  "victor_alves_cv.aux" 1704992359 2274 00dc7722b73afc0613464b9b3dde87f6 "pdflatex"
   (generated)
   "victor_alves_cv.bbl"
   "victor_alves_cv.blg"
   (rewritten before read)
-["pdflatex"] 1704923470 "c:/Users/can00015/Documents/GitHub/CV/victor_alves_cv.tex" "victor_alves_cv.pdf" "victor_alves_cv" 1704923475 0
+["pdflatex"] 1704992357 "c:/Users/can00015/Documents/GitHub/CV/victor_alves_cv.tex" "victor_alves_cv.pdf" "victor_alves_cv" 1704992361 0
   "C:/Users/can00015/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1704923445 92909 8b244a284fa6bead44583c9d0bf1c0fb ""
   "C:/Users/can00015/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1695662607 24143365 940632e954936078d1553d4e93b0bcd7 ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463869852 1687 f004baecce60175c6453d0e3f808cf20 ""
@@ -123,12 +123,12 @@
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1686255640 7147 d80d8cf72d313443d08c13c1af59c90f ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1686255640 7392 ed69c044ab18d5539723c1c7b8c2ee88 ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/can00015/Documents/GitHub/CV/victor_alves_cv.tex" 1694529485 16339 d326b53650523c651de67aecd4f78666 ""
-  "victor_alves_cv.aux" 1704923472 1600 909d0970e90a2ef36835484a83f7908c "pdflatex"
-  "victor_alves_cv.bbl" 0 -1 0 "bibtex victor_alves_cv"
-  "victor_alves_cv.out" 1704923472 730 86ba6a5f5095bd664be6a321aaf19869 "pdflatex"
-  "victor_alves_cv.run.xml" 1704923472 2617 a2441e50f26ac3e59c91b8e92d74102f "pdflatex"
-  "victor_alves_cv.tex" 1694529485 16339 d326b53650523c651de67aecd4f78666 ""
+  "c:/Users/can00015/Documents/GitHub/CV/victor_alves_cv.tex" 1704992355 16339 1915cfe031b89690e990fd61f9e1b003 ""
+  "victor_alves_cv.aux" 1704992359 2274 00dc7722b73afc0613464b9b3dde87f6 "pdflatex"
+  "victor_alves_cv.bbl" 1704991940 7494 9025c2fa4985fb5316474d2037110ecb "bibtex victor_alves_cv"
+  "victor_alves_cv.out" 1704992359 730 86ba6a5f5095bd664be6a321aaf19869 "pdflatex"
+  "victor_alves_cv.run.xml" 1704992359 2617 d8a0ec0b7d2d4bba2a8f050367983b28 "pdflatex"
+  "victor_alves_cv.tex" 1704992355 16339 1915cfe031b89690e990fd61f9e1b003 ""
   (generated)
   "victor_alves_cv-blx.bib"
   "victor_alves_cv.aux"

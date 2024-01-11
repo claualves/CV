@@ -1,0 +1,185 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{alves_overview_2019}{article}{}
+    \name{author}{7}{}{%
+      {{hash=AJJ}{%
+         family={Alves},
+         familyi={A\bibinitperiod},
+         given={José\bibnamedelima J.N.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=NAT}{%
+         family={Neto},
+         familyi={N\bibinitperiod},
+         given={Antônio\bibnamedelima T.P.},
+         giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=AAC}{%
+         family={Araújo},
+         familyi={A\bibinitperiod},
+         given={Antônio\bibnamedelima C.B.},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SHB}{%
+         family={Silva},
+         familyi={S\bibinitperiod},
+         given={Heleno\bibnamedelima B.},
+         giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=SSK}{%
+         family={Silva},
+         familyi={S\bibinitperiod},
+         given={Sidinei\bibnamedelima K.},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=NCA}{%
+         family={Nascimento},
+         familyi={N\bibinitperiod},
+         given={Claudemi\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LAM}{%
+         family={Luiz},
+         familyi={L\bibinitperiod},
+         given={Aurélio\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AJJ+1}
+    \strng{fullhash}{AJJNATAACSHBSSKNCALAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.1016/j.psep.2018.11.021
+    \endverb
+    \field{pages}{102\bibrangedash 117}
+    \field{title}{Overview and experimental verification of models to classify
+  hazardous areas}
+    \field{volume}{122}
+    \field{journaltitle}{Process Safety and Environmental Protection}
+    \field{month}{02}
+    \field{year}{2019}
+  \endentry
+
+  \entry{barros_non-monotonic_2020}{article}{}
+    \name{author}{5}{}{%
+      {{hash=BPL}{%
+         family={Barros},
+         familyi={B\bibinitperiod},
+         given={Paloma\bibnamedelima L.},
+         giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=LAM}{%
+         family={Luiz},
+         familyi={L\bibinitperiod},
+         given={Aurélio\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=NCA}{%
+         family={Nascimento},
+         familyi={N\bibinitperiod},
+         given={Claudemi\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=NAT}{%
+         family={Neto},
+         familyi={N\bibinitperiod},
+         given={Antônio\bibnamedelima T.P.},
+         giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=AJJ}{%
+         family={Alves},
+         familyi={A\bibinitperiod},
+         given={José\bibnamedelima J.N.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BPL+1}
+    \strng{fullhash}{BPLLAMNCANATAJJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1016/j.jlp.2020.104278
+    \endverb
+    \field{pages}{104278}
+    \field{title}{On the non-monotonic wind influence on flammable gas cloud
+  from {CFD} simulations for hazardous area classification}
+    \field{volume}{68}
+    \field{journaltitle}{Journal of Loss Prevention in the Process Industries}
+    \field{month}{11}
+    \field{year}{2020}
+  \endentry
+
+  \entry{nascimento_cfd-based_2021}{article}{}
+    \name{author}{5}{}{%
+      {{hash=NCA}{%
+         family={Nascimento},
+         familyi={N\bibinitperiod},
+         given={Claudemi\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LAM}{%
+         family={Luiz},
+         familyi={L\bibinitperiod},
+         given={Aurélio\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BPL}{%
+         family={Barros},
+         familyi={B\bibinitperiod},
+         given={Paloma\bibnamedelima L.},
+         giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=NAT}{%
+         family={Neto},
+         familyi={N\bibinitperiod},
+         given={Antônio\bibnamedelima T.P.},
+         giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=AJJ}{%
+         family={Alves},
+         familyi={A\bibinitperiod},
+         given={José\bibnamedelima J.N.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NCA+1}
+    \strng{fullhash}{NCALAMBPLNATAJJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \verb{doi}
+    \verb 10.1016/j.jlp.2021.104497
+    \endverb
+    \field{pages}{104497}
+    \field{title}{A {CFD}-based empirical model for hazardous area extent
+  prediction including wind effects}
+    \field{volume}{71}
+    \field{journaltitle}{Journal of Loss Prevention in the Process Industries}
+    \field{month}{07}
+    \field{year}{2021}
+  \endentry
+\enddatalist
+\endinput

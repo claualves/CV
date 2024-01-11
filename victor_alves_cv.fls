@@ -193,6 +193,11 @@ INPUT C:\Users\can00015\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\eng
 INPUT C:\Users\can00015\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\can00015\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 OUTPUT victor_alves_cv-blx.bib
+INPUT victor_alves_cv.bbl
+INPUT .\victor_alves_cv.bbl
+INPUT .\victor_alves_cv.bbl
+INPUT .\victor_alves_cv.bbl
+INPUT victor_alves_cv.bbl
 INPUT C:\Users\can00015\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\can00015\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\can00015\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\ufontawesometwo.fd

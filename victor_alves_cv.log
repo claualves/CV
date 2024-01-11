@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9.24) (preloaded format=pdflatex 2023.9.25)  10 JAN 2024 16:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9.24) (preloaded format=pdflatex 2023.9.25)  11 JAN 2024 11:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -545,11 +545,11 @@ Package biblatex Info: Data encoding 'utf8' specified.
 \openout3 = `victor_alves_cv-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'victor_alves_cv.bbl' not found.
-
-No file victor_alves_cv.bbl.
+Package biblatex Info: ... file 'victor_alves_cv.bbl' found.
+ (victor_alves_cv.bbl)
 Package biblatex Info: Reference section=0 on input line 135.
 Package biblatex Info: Reference segment=0 on input line 135.
+
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 (Font)              using `OT1/cmr/bx/n' instead on input line 140.
@@ -586,9 +586,6 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 {C:/Users/can00015/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc}]
 
-LaTeX Warning: Empty bibliography on input line 301.
-
-
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
@@ -602,32 +599,24 @@ L3 programming layer <2023-08-29>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `victor_alves_cv.out' has not changed.
 (rerunfilecheck)             Checksum: 86BA6A5F5095BD664BE6A321AAF19869;730.
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                victor_alves_cv
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'victor_alves_cv.run.xml'.
 \openout1 = `victor_alves_cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19319 strings out of 475247
- 336003 string characters out of 5756376
+ 19548 strings out of 475247
+ 341248 string characters out of 5756376
  1948785 words of memory out of 5000000
- 40625 multiletter control sequences out of 15000+600000
+ 40849 multiletter control sequences out of 15000+600000
  564652 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,81p,1926b,1737s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on victor_alves_cv.pdf (2 pages, 154654 bytes).
+Output written on victor_alves_cv.pdf (2 pages, 160865 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
