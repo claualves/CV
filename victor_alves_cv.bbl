@@ -62,9 +62,6 @@
          giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{AJJ+1}
     \strng{fullhash}{AJJNATAACSHBSSKNCALAM1}
     \field{labelnamesource}{author}
@@ -74,26 +71,13 @@
     \verb{doi}
     \verb 10.1016/j.psep.2018.11.021
     \endverb
-    \field{issn}{09575820}
     \field{pages}{102\bibrangedash 117}
     \field{title}{Overview and experimental verification of models to classify
   hazardous areas}
-    \verb{url}
-    \verb https://linkinghub.elsevier.com/retrieve/pii/S0957582018304968
-    \endverb
     \field{volume}{122}
-    \verb{file}
-    \verb Alves et al_2019_Overview and experimental verification of models to
-    \verb classify hazardous areas.pdf:G\:\\My Drive\\Doutorado\\Research\\Refe
-    \verb rences\\Zotero PDFs\\Alves et al_2019_Overview and experimental verif
-    \verb ication of models to classify hazardous areas.pdf:application/pdf
-    \endverb
     \field{journaltitle}{Process Safety and Environmental Protection}
     \field{month}{02}
     \field{year}{2019}
-    \field{urlday}{12}
-    \field{urlmonth}{07}
-    \field{urlyear}{2022}
   \endentry
 
   \entry{barros_non-monotonic_2020}{article}{}
@@ -129,9 +113,6 @@
          giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{BPL+1}
     \strng{fullhash}{BPLLAMNCANATAJJ1}
     \field{labelnamesource}{author}
@@ -141,20 +122,13 @@
     \verb{doi}
     \verb 10.1016/j.jlp.2020.104278
     \endverb
-    \field{issn}{09504230}
     \field{pages}{104278}
     \field{title}{On the non-monotonic wind influence on flammable gas cloud
   from {CFD} simulations for hazardous area classification}
-    \verb{url}
-    \verb https://linkinghub.elsevier.com/retrieve/pii/S0950423020305659
-    \endverb
     \field{volume}{68}
     \field{journaltitle}{Journal of Loss Prevention in the Process Industries}
     \field{month}{11}
     \field{year}{2020}
-    \field{urlday}{11}
-    \field{urlmonth}{01}
-    \field{urlyear}{2024}
   \endentry
 
   \entry{nascimento_cfd-based_2021}{article}{}
@@ -190,9 +164,6 @@
          giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{NCA+1}
     \strng{fullhash}{NCALAMBPLNATAJJ1}
     \field{labelnamesource}{author}
@@ -202,27 +173,13 @@
     \verb{doi}
     \verb 10.1016/j.jlp.2021.104497
     \endverb
-    \field{issn}{09504230}
     \field{pages}{104497}
     \field{title}{A {CFD}-based empirical model for hazardous area extent
   prediction including wind effects}
-    \verb{url}
-    \verb https://linkinghub.elsevier.com/retrieve/pii/S0950423021001066
-    \endverb
     \field{volume}{71}
-    \verb{file}
-    \verb Nascimento et al_2021_A CFD-based empirical model for hazardous area
-    \verb extent prediction including wind.pdf:G\:\\My Drive\\Doutorado\\Resear
-    \verb ch\\References\\Zotero PDFs\\Nascimento et al_2021_A CFD-based empiri
-    \verb cal model for hazardous area extent prediction including wind.pdf:app
-    \verb lication/pdf
-    \endverb
     \field{journaltitle}{Journal of Loss Prevention in the Process Industries}
     \field{month}{07}
     \field{year}{2021}
-    \field{urlday}{12}
-    \field{urlmonth}{07}
-    \field{urlyear}{2022}
   \endentry
 \enddatalist
 \endinput
