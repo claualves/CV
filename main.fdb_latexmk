@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1705001693 "main.aux" "main.bbl" "main" 1705002228 0
-  "./main-blx.bib" 1705002226 343 80ef1134ae0aab1843c80af95865b35d ""
+["bibtex main"] 1705082429 "main.aux" "main.bbl" "main" 1705083379 0
+  "./main-blx.bib" 1705083377 343 80ef1134ae0aab1843c80af95865b35d ""
   "./papers.bib" 1704992833 1358 f761dba49c9fc85c16a0bd54f16f7b38 ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/bibtex/bst/biblatex/biblatex.bst" 1679055682 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main.aux" 1705002226 2051 7917c458a4dd0823fe37a578b24fbfca "pdflatex"
+  "main.aux" 1705083377 2174 120a89013fcf1eadf5e592ec3843dc15 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1705002224 "c:/Users/can00015/Documents/GitHub/CV/main.tex" "main.pdf" "main" 1705002228 0
+["pdflatex"] 1705083375 "c:/Users/can00015/Documents/GitHub/CV/main.tex" "main.pdf" "main" 1705083379 0
   "C:/Users/can00015/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1704923445 92909 8b244a284fa6bead44583c9d0bf1c0fb ""
   "C:/Users/can00015/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1695662607 24143365 940632e954936078d1553d4e93b0bcd7 ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463869852 1687 f004baecce60175c6453d0e3f808cf20 ""
@@ -39,6 +39,7 @@
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb" 1247596667 36554 b67dc2cfa451409e100b3fcf5f506509 ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1247596667 32587 65067f817f408bc71a7312f3d9828a9b ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
@@ -123,12 +124,12 @@
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1686255640 7147 d80d8cf72d313443d08c13c1af59c90f ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1686255640 7392 ed69c044ab18d5539723c1c7b8c2ee88 ""
   "C:/Users/can00015/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/can00015/Documents/GitHub/CV/main.tex" 1705002222 11922 24991a43aee9cb803d8059f86f1f9455 ""
-  "main.aux" 1705002226 2051 7917c458a4dd0823fe37a578b24fbfca "pdflatex"
-  "main.bbl" 1705001693 6001 a8956069c69fdc1261308f813aa0e8c7 "bibtex main"
-  "main.out" 1705002226 552 a7d0225e0b6110afd37300479bbab220 "pdflatex"
-  "main.run.xml" 1705002226 2518 5b1d917f15bc457787aba7078333230f "pdflatex"
-  "main.tex" 1705002222 11922 24991a43aee9cb803d8059f86f1f9455 ""
+  "c:/Users/can00015/Documents/GitHub/CV/main.tex" 1705083370 12244 f0874be0c3de5ac873b2f83fb99da6c7 ""
+  "main.aux" 1705083377 2174 120a89013fcf1eadf5e592ec3843dc15 "pdflatex"
+  "main.bbl" 1705082430 6001 a8956069c69fdc1261308f813aa0e8c7 "bibtex main"
+  "main.out" 1705083377 734 e5275e9800137c94faa5308790b2baa1 "pdflatex"
+  "main.run.xml" 1705083377 2518 5b1d917f15bc457787aba7078333230f "pdflatex"
+  "main.tex" 1705083370 12244 f0874be0c3de5ac873b2f83fb99da6c7 ""
   (generated)
   "main-blx.bib"
   "main.aux"
